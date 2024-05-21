@@ -16,4 +16,4 @@ I have use IQR method and different machine learning algorithms supervised in or
 The data was taken from Kaggle site : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud 
 
 # Code :
-The code of the project : 
+The code of the project : https://github.com/NidhiSingh1111/Credit-Card-Fraud-Detection/blob/main/Credit-Card-Fraud-Detection.ipynb
